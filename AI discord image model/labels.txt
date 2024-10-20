@@ -1,0 +1,6 @@
+0 Evsel Atık
+1 Cam
+2 Plastik
+3 Kağıt
+4 Metal
+5 Kimyasal
